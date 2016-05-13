@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa12678a511ba4c8588f8878b6fb71c5
+timeCreated: 1438525220
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - kreisPrefab: {fileID: 176386, guid: 4eda17fc8234445d389eb8abfe675142, type: 2}
+  - textCityName: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
