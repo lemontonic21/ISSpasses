@@ -9,5 +9,5 @@ Scene: Version_130815
 Tested under:
 
 Unity 5.0.1f1 Personal
-Mac OSX 10.9.5
+
 
